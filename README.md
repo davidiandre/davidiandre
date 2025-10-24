@@ -16,7 +16,17 @@ Applied BEM methodology for organized and scalable CSS.
 Created a clean, interactive user interface deployed on GitHub Pages.
 Tech Used: HTML5 | CSS3 | BEM | GitHub Pages | Figma
 
+☕ Triple Espresso
+A web page for a digital coffee shop integrating interactive forms and embedded content.
 
+Built using HTML5 and CSS3 with a focus on structure and clarity.
+Applied Flexbox and BEM for consistent layout and maintainable styles.
+Tech Used: HTML5 | CSS3 | Flexbox | BEM | Git
+
+📫 Get in Touch
+📍 Bogotá, Colombia
+📧 davidiandre10@gmail.com
+🔗 LinkedIn – andres-sanchez10
 
 <!--
 **davidiandre/davidiandre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
